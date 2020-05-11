@@ -8,3 +8,6 @@ import img from '../test.jpg';
 console.log(checkForName);
 
 alert("I exist!")
+alert("I exist!")
+alert("I exist!")
+alert("I exist!")
