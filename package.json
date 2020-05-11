@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.17.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
@@ -22,5 +23,12 @@
     "babel-loader": "^8.1.0",
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^4.3.0"
+||||||| ed2b1cc
+    "express": "^4.17.1"
+=======
+    "express": "^4.17.1",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5"
+>>>>>>> dbbe38029a3c5236888a192ea7002253ed20953e
   }
 }

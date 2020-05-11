@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const path = require('path');
 const webpack = require('webpack');
 
@@ -22,3 +23,12 @@ module.exports = {
 
     }
 }
+||||||| ed2b1cc
+=======
+const path = require('path') 
+const webpack = require('webpack')
+
+module.exports = {
+
+}
+>>>>>>> dbbe38029a3c5236888a192ea7002253ed20953e
